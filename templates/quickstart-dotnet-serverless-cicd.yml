@@ -21,6 +21,7 @@ Parameters:
     AllowedValues:
       - '64bit Windows Server 2016 v2.6.8 running IIS 10.0'
       - '64bit Windows Server 2019 v2.6.8 running IIS 10.0'
+      - '64bit Windows Server 2019 v2.10.4 running IIS 10.0'
     Default: '64bit Windows Server 2019 v2.6.8 running IIS 10.0' 
   QSS3BucketName:
     AllowedPattern: ^[0-9a-zA-Z]+([0-9a-zA-Z-]*[0-9a-zA-Z])*$
